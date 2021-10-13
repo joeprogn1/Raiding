@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258318564234",
+    "project_id": "raiding-3d56f",
+    "storage_bucket": "raiding-3d56f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258318564234:android:4b2949dca79bfeaff36673",
+        "android_client_info": {
+          "package_name": "com.Equipo3.rading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258318564234-ioect71alfs1on9isgfiau3jd957ftnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Equipo3.rading",
+            "certificate_hash": "90fb49a6b126351371db4362ab330200c2ddbad2"
+          }
+        },
+        {
+          "client_id": "258318564234-gu858pimpj94fjjq3oktfeknr0mpfbj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpr8LgSMmFgHfyh83UQVHaJ03uQtgcOcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258318564234-gu858pimpj94fjjq3oktfeknr0mpfbj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
